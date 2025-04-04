@@ -1,3 +1,4 @@
+//Flyweight Pattern
 public class MarkerStyle {
     private String icon;
     private String color;

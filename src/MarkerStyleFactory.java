@@ -1,6 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
+//Flyweight Pattern
 public class MarkerStyleFactory {
     private static final Map<String, MarkerStyle> styles = new HashMap<>();
 

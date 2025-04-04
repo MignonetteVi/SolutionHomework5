@@ -1,3 +1,4 @@
+//Flyweight Pattern
 public class LocationMarker {
     private int x, y;
     private MarkerStyle style;
