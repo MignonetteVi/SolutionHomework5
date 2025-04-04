@@ -1,3 +1,4 @@
+//Proxy Pattern
 public class UploadImageProxy {
     private String agentName;
 

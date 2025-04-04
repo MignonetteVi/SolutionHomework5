@@ -1,3 +1,4 @@
+//Proxy Pattern
 public class HighResolutionImage implements Image{
     private String filepath;
 
